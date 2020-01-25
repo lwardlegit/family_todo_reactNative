@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "224411755293",
+    "firebase_url": "https://familytodo-28018.firebaseio.com",
+    "project_id": "familytodo-28018",
+    "storage_bucket": "familytodo-28018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224411755293:android:edfbccdc8cd62bfb8177f4",
+        "android_client_info": {
+          "package_name": "com.coalition597.familytodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224411755293-bm8vhumbntah5vcqu7g1j565uu801j7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYYNC7HizNRPGjoWhZ4_5V5A9OOjgTz3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224411755293-bm8vhumbntah5vcqu7g1j565uu801j7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
