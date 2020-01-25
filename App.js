@@ -24,12 +24,8 @@ import Login from "./login.js";
 
 import * as firebase from 'firebase';
 
-const firebaseConfig = {
-  apiKey: 'AIzaSyABmRXh2nlBt4FtjfOWNaoz7q5Wy5pGFlc',
-  authDomain: 'familytodo-28018.firebaseapp.com',
-  databaseURL: 'https://familytodo-28018.firebaseio.com/',
-  projectId: 'familytodo-28018'
-    }
+ // include your firebase config object here 
+ 
   firebase.initializeApp(firebaseConfig);
  
 
